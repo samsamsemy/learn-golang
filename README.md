@@ -8,3 +8,4 @@ Repository ini berisi latihan Golang yang basic-basic aja
 - Tipe Data
 - Pointer
 - Function
+- Konstanta
