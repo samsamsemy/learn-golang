@@ -3,7 +3,8 @@ package main
 import (
 	"fmt"
 	// "project-1/variabel"
-	"project-1/tipedata"
+	// "project-1/tipedata"
+	"project-1/konstanta"
 )
 
 
@@ -14,13 +15,14 @@ func main() {
 	*/ 
 	fmt.Println("hello world\n")
 
-	tipedata.DataType()
-	tipedata.Desimal()
+	
 	// variabel.VariabelHello()
 	// variabel.MultiVar()
 	// variabel.Underscore() 
 	// variabel.Pointer() 
-
+	// tipedata.DataType()
+	// tipedata.Desimal()
+	konstanta.Konstan()
 
 
 }
