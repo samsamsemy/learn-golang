@@ -1,0 +1,1 @@
+// type nul > hello.go
