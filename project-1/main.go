@@ -4,7 +4,8 @@ import (
 	"fmt"
 	// "project-1/variabel"
 	// "project-1/tipedata"
-	"project-1/konstanta"
+	// "project-1/konstanta"
+	"project-1/operator"
 )
 
 
@@ -22,9 +23,9 @@ func main() {
 	// variabel.Pointer() 
 	// tipedata.DataType()
 	// tipedata.Desimal()
-	konstanta.Konstan()
-	konstanta.Wkwk()
+	// konstanta.Konstan()
+	// konstanta.Wkwk()
 	// konstanta.Multimulti()
-
+	operator.Op()
 
 }

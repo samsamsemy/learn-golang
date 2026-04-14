@@ -9,3 +9,4 @@ Repository ini berisi latihan Golang yang basic-basic aja
 - Pointer
 - Function
 - Konstanta
+- Operator
