@@ -23,7 +23,8 @@ func main() {
 	// tipedata.DataType()
 	// tipedata.Desimal()
 	konstanta.Konstan()
-	konstanta.Multi()
+	konstanta.Wkwk()
+	// konstanta.Multimulti()
 
 
 }

@@ -4,11 +4,20 @@ import "fmt"
 
 func Multi() {
 	const (
-		a	= 1
-		b	= true
-		c 	= 3.4
-		d	= "hello world"
+		a int     = 0
+		b string  = ""
+		c float64 = 0.0
+		d bool    = false
 	)
-
 	fmt.Println("nice", a, b, c, d)
 }
+
+func Multimulti() {
+	Multi()
+}
+
+func Wkwk() {
+	Multi()
+	Multimulti()
+}
+
