@@ -5,7 +5,8 @@ import (
 	// "project-1/variabel"
 	// "project-1/tipedata"
 	// "project-1/konstanta"
-	"project-1/operator"
+	// "project-1/operator"
+	"project-1/kondisi"
 )
 
 
@@ -26,6 +27,8 @@ func main() {
 	// konstanta.Konstan()
 	// konstanta.Wkwk()
 	// konstanta.Multimulti()
-	operator.Op()
+	// operator.Op()
+	// operator.Logika(a)
+	kondisi.Laper()
 
 }
