@@ -30,5 +30,6 @@ func main() {
 	// operator.Op()
 	// operator.Logika(a)
 	kondisi.Laper()
+	kondisi.Tempo()
 
 }
