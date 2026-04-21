@@ -29,7 +29,14 @@ func main() {
 	// konstanta.Multimulti()
 	// operator.Op()
 	// operator.Logika(a)
-	kondisi.Laper()
-	kondisi.Tempo()
+	// kondisi.Laper()
+	// kondisi.Tempo()
+	// kondisi.Case()
+	// kondisi.Default()
+	// kondisi.Casestyleif()
+	// kondisi.Fallth()
+	// kondisi.Fallth1()
+	// kondisi.Fallth2()
+	kondisi.Sarang()
 
 }
